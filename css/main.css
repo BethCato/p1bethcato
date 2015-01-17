@@ -1,0 +1,29 @@
+.container {
+	padding-right: 19px;
+}
+
+body {
+	font: 16px/200% Kalimati, Verdana, sans-serif;
+	color: #666;
+}
+
+h1 {
+	font-size: 49px;
+	line-height: 200%;
+}
+
+h2 {
+	font-size: 24px;
+	color: #f07c17;
+	font-weight: bold;
+	margin-top: 0;
+	margin-bottom: 28px;
+}
+
+.textbox {
+	outline: 1px solid #cccccc !important;
+	margin-top: 35px;
+	padding: 32px;
+	padding-top: 24px;
+}
+
